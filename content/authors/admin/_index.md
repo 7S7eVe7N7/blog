@@ -76,7 +76,7 @@ skills:
         percent: 100
         icon: gamepad
         icon_pack: fas
-      - name: MUsic
+      - name: Music
         description: ''
         percent: 100
         icon: headphones
@@ -95,21 +95,30 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
+  - icon: etsy
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
+    link: https://elibrary.ru/
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
+    link: https://scholar.google.com/
+  - icon: mendeley
     icon_pack: fab
-    link: https://github.com/gcushen
+    link:  https://www.mendeley.com/
+  - icon: orcid
+    icon_pack: fab
+    link: https://orcid.org/my-orcid?orcid=0009-0008-6549-4693&justRegistered=true
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link:  https://www.researchgate.net/profile/Ilya-Mashkov
+  - icon: autoprefixer
+    icon_pack: fab
+    link:  https://independent.academia.edu/IMashkov
+  - icon: archive
+    icon_pack: fas
+    link:  https://arxiv.org/
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/7S7eVe7N7
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -117,6 +126,7 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 
+    
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
