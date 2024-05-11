@@ -9,10 +9,10 @@ summary: Здравствуй, дорогой читатель! В этой за
 projects: []
 
 # Date published
-date: '2024-04-27T00:00:00Z'
+date: '2024-04-30T00:00:00Z'
 
 # Date updated
-lastmod: '2024-04-27T00:00:00Z'
+lastmod: '2024-04-30T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
