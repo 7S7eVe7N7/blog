@@ -1,13 +1,10 @@
 ---
 # Display name
-title: Машков И.Е.
-
-# Name pronunciation (optional)
-name_pronunciation: Mashkov Ilya
+title: Mashkov I.E.
 
 # Full name (for SEO)
-first_name: Илья
-last_name: Машков
+first_name: Ilya
+last_name: Mashkov
 
 # Status emoji
 status:
@@ -17,28 +14,28 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Студент ФФМиЕН РУДН
+role: Student of FFMiEN RUDN
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: РУДН
+  - name: Peoples' Friendship University of Russia
     url: https://www.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Мне нравится слушать музыку, программировать, собирать модельки танков, играть в компьютерные игры.
+bio: I like listening to music, programming, collecting tank models, playing computer games.
 
 # Interests to show in About widget
 interests:
-  - Музыка
+  - Music
   - ELDEN RING
-  - Программирование
-  - Общение
+  - Programming
+  - Communication
 
 # Education to show in About widget
 education:
   courses:
-    - course: Среднее общее образование
-      institution: МБОУ Большевязёмская школа
+    - course: Secondary general education
+      institution: Bolshevyazemskaya school
       year: 2023
 
 
@@ -131,5 +128,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Mashkov Ilya - student of FFMiEN RUDN. I tried my hand at programming when I was preparing for the Unified State Exam, and now I am studying in the IT direction. I have no special merits in this area, but I think that they will appear as soon as possible.
 {style="text-align: justify;"}

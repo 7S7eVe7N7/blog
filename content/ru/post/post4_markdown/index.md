@@ -1,10 +1,39 @@
 ---
 title: Легковесные языки разметки
-date: 2024-04-20
-math: true
+subtitle: В данной публикации я постараюсь раскрыть вам тему о легковесных языках разметки.
+
+# Summary for listings and search engines
+summary: В данной публикации я постараюсь раскрыть вам тему о легковесных языках разметки.
+
+# Link this post with a project
+projects: []
+
+# Date published
+date: '2024-04-20T23:00:00Z'
+
+# Date updated
+lastmod: '2024-04-20T23:00:00Z'
+
+# Is this an unpublished draft?
+draft: false
+
+# Show this page in the Featured widget?
+featured: false
+
+# Featured image
+# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
   placement: 2
   caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
+
+authors:
+  - admin
+
+tags:
+  - Academic
+
+categories:
+  - Demo
 ---
 
 ## Общая информация
