@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Myagmar Urgindorj # Website name
+title: Myagmar Urhindorj # Website name
 baseURL: 'https://7s7eve7n7.github.io/' # Website URL
 
 ############################

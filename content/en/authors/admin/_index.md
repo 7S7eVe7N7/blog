@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Myagmar Urgindorj
+title: Myagmar Urhindorj
 
 # Full name (for SEO)
 first_name: Myagmar
-last_name: Urgindorj
+last_name: Urhindorj
 
 # Status emoji
 status:
@@ -127,5 +127,5 @@ social:
 highlight_name: true
 ---
 
-Myagmar Urgindorj - student of FFMiEN RUDN. I tried my hand at programming when I was preparing for the Unified State Exam, and now I am studying in the IT direction. I have no special merits in this area, but I think that they will appear as soon as possible.
+Myagmar Urhindorj - student of FFMiEN RUDN. I tried my hand at programming when I was preparing for the Unified State Exam, and now I am studying in the IT direction. I have no special merits in this area, but I think that they will appear as soon as possible.
 {style="text-align: justify;"}
