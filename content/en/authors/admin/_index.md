@@ -29,6 +29,7 @@ interests:
   - Music
   - Programming
   - Communication
+  - Games
 
 # Education to show in About widget
 education:
