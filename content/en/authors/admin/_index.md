@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Mashkov I.E.
+title: Myagmar Urgindorj
 
 # Full name (for SEO)
-first_name: Ilya
-last_name: Mashkov
+first_name: Myagmar
+last_name: Urgindorj
 
 # Status emoji
 status:
@@ -27,7 +27,6 @@ bio: I like listening to music, programming, collecting tank models, playing com
 # Interests to show in About widget
 interests:
   - Music
-  - ELDEN RING
   - Programming
   - Communication
 
@@ -35,7 +34,7 @@ interests:
 education:
   courses:
     - course: Secondary general education
-      institution: Bolshevyazemskaya school
+      institution: Lyceum No. 15 named after N.N. Makarenko
       year: 2023
 
 
@@ -128,5 +127,5 @@ social:
 highlight_name: true
 ---
 
-Mashkov Ilya - student of FFMiEN RUDN. I tried my hand at programming when I was preparing for the Unified State Exam, and now I am studying in the IT direction. I have no special merits in this area, but I think that they will appear as soon as possible.
+Myagmar Urgindorj - student of FFMiEN RUDN. I tried my hand at programming when I was preparing for the Unified State Exam, and now I am studying in the IT direction. I have no special merits in this area, but I think that they will appear as soon as possible.
 {style="text-align: justify;"}
