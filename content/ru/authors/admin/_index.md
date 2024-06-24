@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Мягмар Уржиндорж
+title: Шакиров Индус Равильевич
 
 # Full name (for SEO)
-first_name: Мягмар
-last_name: Уржиндорж
+first_name: Индус
+last_name: Шакиров
 
 # Status emoji
 status:
-  icon: 🎮️
+  icon: 💪️
 
 # Is this the primary user of the site?
 superuser: true
@@ -29,13 +29,13 @@ interests:
   - Музыка
   - Программирование
   - Общение
-  - Игры
+  - Спорт
 
 # Education to show in About widget
 education:
   courses:
     - course: Среднее общее образование
-      institution: Лицей №15 имени Н.Н.Макаренко
+      institution: Школа №36
       year: 2023
 
 
@@ -46,22 +46,22 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 40
+        percent: 35
         icon: python
         icon_pack: fab
       - name: C++
         description: ''
-        percent: 50
+        percent: 45
         icon: code
         icon_pack: fab
       - name: SQL
         description: ''
-        percent: 30
+        percent: 25
         icon: database
         icon_pack: fas
       - name: NASM
         description: ''
-        percent: 15
+        percent: 10
         icon: code
         icon_pack: fas
   - name: Увлечения
@@ -128,5 +128,5 @@ social:
 highlight_name: true
 ---
 
-Мягмар Уржиндорж - студент ФФМиЕН РУДН. Пробовал свои силы в программировании, когда готовился к ЕГЭ, а теперь обучаюсь на IT направлении. Особых заслуг в этой сфере я не имею, но думаю, что в скорейшем времени они появятся.
+Шакиров Индус Равильевич - студент ФФМиЕН РУДН. Пробовал свои силы в программировании, когда готовился к ЕГЭ, а теперь обучаюсь на IT направлении. 
 {style="text-align: justify;"}

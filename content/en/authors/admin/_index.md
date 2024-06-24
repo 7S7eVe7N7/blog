@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Myagmar Urzhindorzh
+title: Shakirov Indus Ravilievich
 
 # Full name (for SEO)
-first_name: Myagmar
-last_name: Urzhindorzh
+first_name: Indus
+last_name: Shakirov
 
 # Status emoji
 status:
-  icon: 🎮️
+  icon: 💪️
 
 # Is this the primary user of the site?
 superuser: true
@@ -22,20 +22,20 @@ organizations:
     url: https://www.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I like listening to music, programming, collecting tank models, playing computer games.
+bio: I like listening to music, programming, collecting tank models, do sport.
 
 # Interests to show in About widget
 interests:
   - Music
   - Programming
   - Communication
-  - Games
+  - Sport
 
 # Education to show in About widget
 education:
   courses:
     - course: Secondary general education
-      institution: Lyceum No. 15 named after N.N. Makarenko
+      institution: School No. 36
       year: 2023
 
 
@@ -46,22 +46,22 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 40
+        percent: 35
         icon: python
         icon_pack: fab
       - name: C++
         description: ''
-        percent: 50
+        percent: 45
         icon: code
         icon_pack: fab
       - name: SQL
         description: ''
-        percent: 30
+        percent: 25
         icon: database
         icon_pack: fas
       - name: NASM
         description: ''
-        percent: 15
+        percent: 10
         icon: code
         icon_pack: fas
   - name: Hobbies
@@ -128,5 +128,5 @@ social:
 highlight_name: true
 ---
 
-Myagmar Urzhindorzh - student of FFMiEN RUDN. I tried my hand at programming when I was preparing for the Unified State Exam, and now I am studying in the IT direction. I have no special merits in this area, but I think that they will appear as soon as possible.
+Shakirov Indus Ravilievich - student of FFMiEN RUDN. I tried my hand at programming when I was preparing for the Unified State Exam, and now I am studying in the IT direction. 
 {style="text-align: justify;"}
