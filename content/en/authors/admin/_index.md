@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Shakirov Indus Ravilievich
+title: Mashkov Ilya Evgenyevich
 
 # Full name (for SEO)
-first_name: Indus
-last_name: Shakirov
+first_name: Ilya
+last_name: Mashkov
 
 # Status emoji
 status:
-  icon: 💪️
+  icon: 🎮️
 
 # Is this the primary user of the site?
 superuser: true
@@ -22,20 +22,20 @@ organizations:
     url: https://www.rudn.ru/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I like listening to music, programming, collecting tank models, do sport.
+bio: I like listening to music, programming, collecting tank models and play computer games.
 
 # Interests to show in About widget
 interests:
   - Music
   - Programming
   - Communication
-  - Sport
+  - ELDEN RING
 
 # Education to show in About widget
 education:
   courses:
     - course: Secondary general education
-      institution: School No. 36
+      institution: MBOU Bolshevyazemskaya school
       year: 2023
 
 
@@ -46,7 +46,7 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 35
+        percent: 45
         icon: python
         icon_pack: fab
       - name: C++
@@ -56,12 +56,12 @@ skills:
         icon_pack: fab
       - name: SQL
         description: ''
-        percent: 25
+        percent: 30
         icon: database
         icon_pack: fas
       - name: NASM
         description: ''
-        percent: 10
+        percent: 20
         icon: code
         icon_pack: fas
   - name: Hobbies
@@ -128,5 +128,5 @@ social:
 highlight_name: true
 ---
 
-Shakirov Indus Ravilievich - student of FFMiEN RUDN. I tried my hand at programming when I was preparing for the Unified State Exam, and now I am studying in the IT direction. 
+Mashkov Ilya Evgenyevich - student of FFMiEN RUDN. I tried my hand at programming when I was preparing for the Unified State Exam, and now I am studying in the IT direction. I have no special merits in this area, but I hope that they will appear soon.
 {style="text-align: justify;"}
